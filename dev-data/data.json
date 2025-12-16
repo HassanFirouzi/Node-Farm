@@ -1,0 +1,79 @@
+[
+  {
+    "id": 0,
+    "productName": "Keçi Peyniri",
+    "image": "🧀",
+    "from": "Portekiz",
+    "nutrients": "A Vitamini, Kalsiyum",
+    "quantity": "250g",
+    "price": "10.00",
+    "organic": false,
+    "description": "Yumuşak dokulu, hafif tuzlu"
+  },
+  {
+    "id": 1,
+    "productName": "Taze Havuç",
+    "image": "🥕",
+    "from": "Türkiye",
+    "nutrients": "A Vitamini, Beta Karoten",
+    "quantity": "500g",
+    "price": "3.50",
+    "organic": true,
+    "description": "Taptaze ve çıtır, yemekler ve atıştırmalıklar için ideal havuç."
+  },
+  {
+    "id": 3,
+    "productName": "Organik Domates",
+    "image": "🍅",
+    "from": "İtalya",
+    "nutrients": "C Vitamini, Likopen",
+    "quantity": "1kg",
+    "price": "6.00",
+    "organic": true,
+    "description": "Tamamen organik yetiştirilmiş, sulu ve aromatik domates."
+  },
+  {
+    "id": 4,
+    "productName": "Badem Sütü",
+    "image": "🥛",
+    "from": "İspanya",
+    "nutrients": "E Vitamini, Kalsiyum",
+    "quantity": "1L",
+    "price": "4.80",
+    "organic": false,
+    "description": "Laktozsuz ve hafif içimli, doğal badem aromalı bitkisel süt."
+  },
+  {
+    "id": 5,
+    "productName": "Doğal Bal",
+    "image": "🍯",
+    "from": "Türkiye",
+    "nutrients": "Antioksidanlar, Doğal Şekerler",
+    "quantity": "450g",
+    "price": "12.50",
+    "organic": true,
+    "description": "Hakiki, katkısız ve saf çiçek balı. Kahvaltılar için ideal."
+  },
+  {
+    "id": 6,
+    "productName": "Avokado",
+    "image": "🥑",
+    "from": "Meksika",
+    "nutrients": "Sağlıklı Yağlar, Lif",
+    "quantity": "2 adet",
+    "price": "5.20",
+    "organic": false,
+    "description": "Olgun, yumuşak ve lezzetli avokado. Salatalar için mükemmel."
+  },
+  {
+    "id": 7,
+    "productName": "Organik Ispanak",
+    "image": "🥬",
+    "from": "Hollanda",
+    "nutrients": "Demir, K Vitamini",
+    "quantity": "300g",
+    "price": "4.30",
+    "organic": true,
+    "description": "Taze ve temizlenmiş, organik sertifikalı ıspanak yaprakları."
+  }
+]
